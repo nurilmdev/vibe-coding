@@ -1,0 +1,15 @@
+buatkan issue.md berisi planning untuk membuat ini:
+
+buat project baru di folder ini
+
+ menggunakan nodejs
+
+ dan gunakan dependency:
+ - elysia js
+ - drizzle
+ - postgresql
+ - bahasa menggunakan typescript
+
+jangan terlalu low level/ detail. cukup instruksikan secara high level.
+
+nanti dokumen planningnya akan digunakan oleh programmer/ model yang lebih murah untuk diimplementasikan.
